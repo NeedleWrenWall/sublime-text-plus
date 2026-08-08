@@ -36,4 +36,4 @@ Powerful **Sublime Text Plus** developer toolkit providing database management, 
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.
+> This repository is provided for educational and utility purposes only. Use at your own discretion. 
